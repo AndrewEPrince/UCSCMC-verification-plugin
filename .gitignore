@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+venv/
+
+#secrits
+client_secrets.json
+.env
+
+#OS files
+.DS_Store
+
+#IDE
+.vscode/
+.idea/
